@@ -1,0 +1,8 @@
+- Tạo 1 github repo
+- git init
+- viết code
+- git status
+- git add .
+- git commit -m "add project"
+- git remote add origin https://github.com/minhbui652/demo-push-my-project.git
+- git push origin master
